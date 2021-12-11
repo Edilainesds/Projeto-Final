@@ -1,6 +1,5 @@
 const { Mongoose } = require('mongoose')
-const noteSchema = require('../models/financasParaCriancasSchema')
-const NoteSchema = require('../models/financasParaCriancasSchema')
+const financasParaCriancasSchema = require('../models/financasParaCriancasSchema')
 
 const getAll = async (req, res) => {
     try {
