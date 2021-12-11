@@ -11,7 +11,8 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 
-app.use("/financas", routes)
 db.connect()   
+
+app.use("/financas", routes)
 
 module.exports = app
