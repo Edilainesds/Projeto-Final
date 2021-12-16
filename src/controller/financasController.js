@@ -1,4 +1,4 @@
-const Users = require("../models/CadastradosfinancasSchema");
+const Users = require("../models/financasCadastroSchema");
 
 const getAll = async(req,res)=>{
 
@@ -57,29 +57,50 @@ const getAll = async(req,res)=>{
 
        }
 
-
       }
+      
 
-    
-
+      const deletarCadastro = async (req, res) => {
+        try {
+            const financas = await Users.findById(req.params);
+            if(!financas) {
+                res.status(404).json({message: "usuário não encontrado."})
+            }
+            await financas.delete();
+            res.status(204).json({message: "Cadastro removido com sucesso."})
+        } catch (error) {
+            res.status(500).json({message: error.message})
+        }
+    }
+      
+    const buscarId = async (req, res) => {
+      try {
+          const { id } = req.params;
+          const buscarUsers = await Users.findById(id);
+  
+          if(!buscarUsers) {
+              res.status(404).json({message: "Usuário não encontrado."})
+          }
+          res.status(200).json({
+              message: "Usuário encontrado:",
+              buscarDocerias
+          })
+      } catch (error) {
+          res.status(500).json({message: error.message});
+      }
+  }
 
 
 
   module.exports = {
       getAll,
       criarCadastro,
-      atualizarCadastro
+      atualizarCadastro,
+      deletarCadastro,
+      buscarId
    
   }
 
 
   
-
-
-
-
-
-
-
-
 
