@@ -4,7 +4,7 @@ const cors = require('cors') // não dar conflito de Api
  
 
 const db = require('./database/mongoConfig') // chama a logica da programacao
-const routes = require("./routes/financasroutes")
+const routes = require("./routes/financasRoutes")
 
 const app = express()//ele que chama o express
 db.connect()   
