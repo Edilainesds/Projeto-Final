@@ -6,4 +6,6 @@ const controller = require("../controller/financasController"); //pegar
 router.get("/all", controller.getAll);
 router.post("/criar" , controller.criarCadastro);
 router.put("/atualizar/:id" , controller.atualizarCadastro);
+router.delete("/deletar" ,controller.deletarCadastro);
+router.get("all/:id" , controller.buscarId);
 module.exports = router
