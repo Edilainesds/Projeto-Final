@@ -1,7 +1,7 @@
 
 <h1 align="center">
     <br>
-    <p align="center">Projeto Final {Reprograma}<p>
+    <p align="center">Projeto Final <p>
 </h1>
 <p align="center">
 <img src="" width="350" height="300"/>
@@ -192,10 +192,10 @@ Caso tenha alguma sugestão, estou aberta a ouvir.
 <br>
 
 <td align="center"><a href="https://github.com/Edilainesds">
-<img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/80156310?v=4" width="200px;" alt=""/> </td><br> 
 
 
-## [Hannah Freitas](https://github.com/Edilainesds)
+
+## [Edilaine silva](https://github.com/Edilainesds)
 ## [LinkedIn](https://www.linkedin.com/in/edilaine-silva-a683a1105/) 
 
 <br>
