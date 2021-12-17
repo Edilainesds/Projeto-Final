@@ -187,7 +187,7 @@ Caso tenha alguma sugestão, estou aberta a ouvir.
 
 <br>
 
-## 👨‍💻 Autora
+## 👨‍💻 Autora Edilaine silva
 
 <br>
 
