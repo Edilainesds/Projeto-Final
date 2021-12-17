@@ -152,7 +152,7 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 
 - id: gerado automaticamente 
 - nome: texto e obrigatório
-- cidade: texto e obrigatório
+- email: texto e obrigatório
 
 
 
