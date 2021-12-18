@@ -146,6 +146,8 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 | DELETE       | `/deletar/:id`          | Deleta um usuário específico         |
 
 <br>
+    
+    <img src="./src/assets/Animação.gif" />
 
 
 
