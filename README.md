@@ -4,7 +4,8 @@
     <p align="center">Projeto Final <p>
 </h1>
 <p align="center">
-<img src="file:///Users/reprograma/Documents/bc94a275f8c5450ba37da4990718ba8c.gif" width="350" height="300"/>
+<img src="src/assets/logo.gif .gif
+" width="350" height="300"/>
 </p>
 <br>
 
