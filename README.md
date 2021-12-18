@@ -1,7 +1,8 @@
 
 <h1 align="center">
     <br>
-    <p align="center">Projeto Final <p>
+    Educação financeira para Baixa renda
+    <p align="center">Projeto Final {reprograma} <p>
 </h1>
 <p align="center">
 <img src="./src/assets/logo.gif .gif"
