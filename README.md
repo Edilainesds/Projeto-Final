@@ -198,13 +198,14 @@ Caso tenha alguma sugestão, estou aberta a ouvir.
 
 <td align="center"><a href="https://github.com/Edilainesds">
 
-## espaco Agradecimentos finais
-    
-    A reprograma foi uma das melhores coisas que aconteceu na minha vida nesses últimos 2 anos, conheci mulheres incrivéis que sempre fizeram eu me sentir acolhida e segura. estes últimos quatro meses foram de aprendizado bastante intensos teve, companheirismo,risadas, choros,códigos. Agradeço a Facilitadora Raquel por todo apoio e compreensão,a Paula allemand pela ajuda e paciencia durante o desenvolvimento do projeto, e a Jéssica osko.agora quero agradecer em especial as meninas que fizeram parte dessa caminhada Hanna por sempre me ajudar e me incentivar, victoria Bastos por sempre se disponibilizar a me ensinar, Talita pela ajuda nos momentos finais que antecederam a apresentação,jaciara pela escuta durante momentos dificeis e conselhos.
+   
     
     
 
 ## [Edilaine silva](https://github.com/Edilainesds)
 ## [LinkedIn](https://www.linkedin.com/in/edilaine-silva-a683a1105/) 
+    
+    
+     A reprograma foi uma das melhores coisas que aconteceu na minha vida nesses últimos 2 anos, conheci mulheres incrivéis que sempre fizeram eu me sentir acolhida e segura. estes últimos quatro meses foram de aprendizado bastante intensos teve, companheirismo,risadas, choros,códigos. Agradeço a Facilitadora Raquel por todo apoio e compreensão,a Paula allemand pela ajuda e paciencia durante o desenvolvimento do projeto, e a Jéssica osko.agora quero agradecer em especial as meninas que fizeram parte dessa caminhada Hanna por sempre me ajudar e me incentivar, victoria Bastos por sempre se disponibilizar a me ensinar, Talita pela ajuda nos momentos finais que antecederam a apresentação,jaciara pela escuta durante momentos dificeis e conselhos.
 
 <br>
