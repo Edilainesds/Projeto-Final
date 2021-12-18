@@ -147,8 +147,9 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 
 <br>
     
-    <img src="./src/assets/Animação.gif" />
-
+<p align="center">   
+ <img src="./src/assets/Animação.gif"/>
+</p>
 
 
 ## ✅ Dados para Collection Projeto final:
