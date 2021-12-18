@@ -4,7 +4,7 @@
     <p align="center">Projeto Final <p>
 </h1>
 <p align="center">
-<img src="https://i.ibb.co/0hRjDTb/1-minuto-da-sua-aten-o.png" width="350" height="300"/>
+<img src="file:///Users/reprograma/Documents/bc94a275f8c5450ba37da4990718ba8c.gif" width="350" height="300"/>
 </p>
 <br>
 
@@ -14,9 +14,9 @@
 
  API desenvolvida como Projeto Final com o auxílio da professora Paula Allemand para a conclusão do curso de Backend  [{Reprograma}](https://reprograma.com.br/)
 
-<p align="justify"> Este projeto nasceu a partir do meu interesse em melhorar minha relação com o dinheiro, esse ano recebi uma bolsa do curso dinheiro sem medo do Eduardo amuri que ensina conteúdos voltados a esse tema,quero que crianças em idade escolar tenham acesso a Educaçao finaceira gratuita  como eu ,porque sendo uma pessoa de baixa renda sei das dificuldades que familias humildes enfrentam, como falta de dinheiro no final do mes, endividamento, nome no serasa,  isso acontece não só devido a desigualdade social mas também pela falta da educaçao financeira em sua formação. Em  2020 quando a pandemia chegou em marco tirando, vidas, empregos e a esperanca, tudo se tornou mais dificil e afetou principalmente as pessoas de baixa renda,por isso quero que as criancas desde pequenas aprendam como lidar e aprender sobre planejamento financeiro, para enfrentar melhor os desafios.
+<p align="justify"> Este projeto nasceu a partir do meu interesse em melhorar minha relação com o dinheiro, esse ano recebi uma bolsa do curso dinheiro sem medo do Eduardo amuri que ensina conteúdos voltados a esse tema,quero que pessoas de baixa renda tenham acesso a Educaçao finaceira gratuita  como eu ,porque sendo uma pessoa de baixa renda sei das dificuldades que familias humildes enfrentam, como falta de dinheiro no final do mes, endividamento, nome no serasa,  isso acontece não só devido a desigualdade social mas também pela falta da educaçao financeira em sua formação. Em  2020 quando a pandemia chegou em marco tirando, vidas, empregos e a esperanca, tudo se tornou complicado e afetou principalmente os mais pobres por isso quero que moradores de periferia  aprendam sobre planejamento financeiro, para enfrentar melhor os desafios.
 
-<p align="justify">Apesar do aumento da desigualdade e do desemprego, há pessoas que também se disponibilizam a ajudar, então o objetivo principal da construção dessa API, é a conexão dessas escolas, com as pessoas que têm a possibilidade de ajudar. Por meio de doar seu tempo e conhecimento. Sempre com a preocupação de proteção dos dados de todos os envolvidos.
+<p align="justify">Apesar do aumento da desigualdade e do desemprego, há pessoas que também se disponibilizam a ajudar, então o objetivo principal da construção dessa API, é a conexão de pessoas interessadas em aprender sobre o tema , com as pessoas que têm a possibilidade de ajudar. Por meio de doar seu tempo e conhecimento. Sempre com a preocupação de proteção dos dados de todos os envolvidos.
 
 <p align="justify">Com o pensamento no futuro de se tornar um projeto grande que se torne viável levar para outros estados essa iniciativa.
 
@@ -26,9 +26,9 @@
 
 <br>
 
-<p align="justify">O projeto é uma API REST que permite que pessoas com conhecimento em Educaçao financeira e que queiram doar um pouco de seu conhecimento e tempo sejam voluntárias e , consigam se cadastrar, informando seus dados e descrevendo informações sobre disponibilidade, localidade, de forma objetiva, para que haja a conexões com as escolas cadastradas , que estejam procurando instrutores para ajudar seus alunos, contendo assim dois cadastros, um para as escolas, e outro para os instrutores que querem fazer uma busca de escolas públicas que estejam procurando voluntários, tendo assim uma opção de login para estas que buscam ajudar, conseguindo acesso as informações de quem está cadastrado no sistema.
+<p align="justify">O projeto é uma API REST que permite que pessoas com conhecimento em Educaçao financeira e que queiram doar um pouco de seu conhecimento e tempo sejam voluntárias e , consigam se cadastrar,  descrevendo informações sobre disponibilidade, localidade, de forma objetiva, para que haja a conexões com os céus participantes dessa iniciativa e também os moradores da comunidade, que estejam procurando mais conhecimento sobre finanças , contendo assim dois cadastros, um para os centros educacionais unificados(céus), e outro para os instrutores que querem fazer uma busca dos locais participantes e  que estejam procurando voluntários, tendo assim uma opção de login para estas que buscam ajudar, conseguindo acesso as informações de quem está cadastrado no sistema.
 
-<p align="justify">A interface é um CRUD completo integrado com o banco de dados, onde é possível listar tanto escolas interessadas na parceria com o projeto e quem pode ser instrutor, cadastrar novos usuários, atualizar os dados e deletar o cadastro do usuário. 
+<p align="justify">A interface é um CRUD completo integrado com o banco de dados, onde é possível listar tanto os céus interessados na parceria com o projeto como a quem deseja ser instrutor,sendo as opções  cadastrar novos usuários, atualizar os dados e deletar o cadastro do usuário. 
 
   
 <br>
@@ -43,9 +43,9 @@
 
 - Listar todas as pessoas que estão cadastradas no sistema;
 - Listar pessoas por ID.
-- Cadastrar pessoas que estejam interessadas em ser um instrutor(a) e escolas que queiram participar do projeto;
+- Cadastrar pessoas que estejam interessadas em ser um instrutor(a) e céus que queiram participar do projeto;
 - Atualizar os dados dessa pessoa, caso haja mudança de bairro,  email, celular;
-- Deletar essa pessoa caso não queira continuar no projeto ou outro motivo;
+- Deletar o profissional ou local  caso não queira continuar no projeto;
 <br>
 
 ## 📚 Aprendizados
