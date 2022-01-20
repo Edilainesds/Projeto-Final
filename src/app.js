@@ -1,19 +1,22 @@
-require('dotenv-safe').config() 
-const express = require('express') //faz a ligacao http,crud.
-const cors = require('cors') // não dar conflito de Api
- 
 
-const db = require('./database/mongoConfig') // chama a logica da programacao
+const express = require('express') 
+const cors = require('cors') 
+ 
+ 
+require('dotenv-safe').config() 
+const db = require('./database/mongoConfig') 
 const routes = require("./routes/financasRoutes")
 
-const app = express()//ele que chama o express
-db.connect()   
+const app = express()
+  
 
 app.use(cors())
 app.use(express.json())
 
 
 
-app.use("/financas", routes) // rota raiz sempre que utilizar o postman colocar primeiro financas 
+app.use("/financas", routes) 
+
+db.connect() 
 
 module.exports = app

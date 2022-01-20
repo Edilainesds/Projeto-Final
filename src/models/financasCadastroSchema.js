@@ -12,12 +12,14 @@ const usersSchema = new mongoose.Schema({
     type: String,
     required: true,
     unique: true,
+    
+
 
    },
    idade: {
        type: Number,
        required:true
-   },
+   }
 
 
 
